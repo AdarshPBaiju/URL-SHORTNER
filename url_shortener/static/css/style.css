@@ -1,0 +1,11 @@
+.box{
+    width: 1000px;
+}
+
+
+@media screen and (max-width: 587px){
+    .box{
+        height: 60%;
+        width: 90%;
+    }
+}
